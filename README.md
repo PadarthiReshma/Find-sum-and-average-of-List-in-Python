@@ -1,0 +1,1 @@
+# Find-sum-and-average-of-List-in-Python
